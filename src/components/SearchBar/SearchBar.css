@@ -5,6 +5,7 @@
   justify-content: space-evenly;
   align-items: center;
   background: #ffffff;
+  font-family: "Oleo Script";
 }
 .search-form {
   width: 150px;
@@ -16,6 +17,7 @@
 }
 .image-wrapper {
   height: 50px;
+  font-size: 40px;
 }
 
 .logo-image {
